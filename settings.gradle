@@ -1,0 +1,2 @@
+rootProject.name = "SCE-G APP"
+include ':app'
